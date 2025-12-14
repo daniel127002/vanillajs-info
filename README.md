@@ -24,7 +24,7 @@ Frameworks like React, Vue, or Angular are powerful — but they *all* sit on to
 - fewer dependencies,
 - better debugging and maintainability.
 
-Whether you’re a beginner or an experienced developer coming from frameworks, mastering vanilla JavaScript will make you a stronger, more confident coder. :contentReference[oaicite:2]{index=2}
+Whether you’re a beginner or an experienced developer coming from frameworks, mastering vanilla JavaScript will make you a stronger, more confident coder.
 
 ## 📚 What You’ll Find on the Site
 
@@ -34,7 +34,7 @@ Whether you’re a beginner or an experienced developer coming from frameworks, 
 ✔ **Web Accessibility** best practices  
 ✔ **Web Components** (native reusable UI elements)  
 ✔ Side-by-side comparisons with frameworks & libraries  
-✔ Curated **recommended books** for deeper learning :contentReference[oaicite:3]{index=3}
+✔ Curated **recommended books** for deeper learning
 
 ## 📖 Get Started
 
