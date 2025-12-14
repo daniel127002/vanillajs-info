@@ -6,7 +6,7 @@
 
 ## 🚀 What Is This?
 
-**VanillaJS.info** is a free, **framework-free learning resource** for web developers of all levels. It teaches **plain JavaScript**, **HTML**, **CSS**, **Web Accessibility**, **Web Components**, and more — all without relying on third-party frameworks or libraries. :contentReference[oaicite:1]{index=1}
+**VanillaJS.info** is a free, **framework-free learning resource** for web developers of all levels. It teaches **plain JavaScript**, **HTML**, **CSS**, **Web Accessibility**, **Web Components**, and more — all without relying on third-party frameworks or libraries.
 
 If you want to:
 - learn the true fundamentals of **JavaScript**,
